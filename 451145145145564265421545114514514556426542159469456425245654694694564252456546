@@ -78,7 +78,7 @@ StarterGui:SetCore("SendNotification", {
 
 
 --* Your code here *--
-
+print(i like kids)
 --* Example Code to show user data *-- 
 print(' Logged In!')
 print(' User Data')
